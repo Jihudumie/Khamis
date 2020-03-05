@@ -41,11 +41,11 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1041455290 592800547 654648997 183775654"
+      "value": "592800547 654648997 183775654"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1041455290 592800547 654648997 183775654"
+      "value": "592800547 654648997 183775654"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
